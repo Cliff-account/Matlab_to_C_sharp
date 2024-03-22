@@ -1,0 +1,57 @@
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\google-ortools-native.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\İTERASYONLU SERBEST DENGELEME.exe.config
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\İTERASYONLU SERBEST DENGELEME.exe
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\İTERASYONLU SERBEST DENGELEME.pdb
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\CsvHelper.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\Google.OrTools.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\Google.Protobuf.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\MathNet.Numerics.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Buffers.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Memory.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Security.AccessControl.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Security.Permissions.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.ValueTuple.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\CsvHelper.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\Google.OrTools.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\Google.Protobuf.pdb
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\Google.Protobuf.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\MathNet.Numerics.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Buffers.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Memory.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Security.AccessControl.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Security.Permissions.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.ValueTuple.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\obj\Debug\İTERASYONLU SERBEST DENGELEME.csproj.AssemblyReference.cache
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\obj\Debug\İTERASYONLU_SERBEST_DENGELEME.Properties.Resources.resources
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\obj\Debug\İTERASYONLU SERBEST DENGELEME.csproj.GenerateResource.cache
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\obj\Debug\İTERASYONLU SERBEST DENGELEME.csproj.CoreCompileInputs.cache
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\obj\Debug\İTERASYONLU SERBEST DENGELEME.csproj.CopyComplete
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\obj\Debug\İTERASYONLU SERBEST DENGELEME.exe
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\obj\Debug\İTERASYONLU SERBEST DENGELEME.pdb
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\obj\Debug\İTERASYONLU_SERBEST_DENGELEME.Form1.resources
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\obj\Debug\İTERASYONLU_SERBEST_DENGELEME.Form2.resources
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\EPPlus.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\EPPlus.xml
+C:\Users\zubey\source\repos\İTERASYONLU SERBEST DENGELEME\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml

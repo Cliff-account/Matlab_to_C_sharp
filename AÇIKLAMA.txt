@@ -1,0 +1,13 @@
+*******************************************************************************************************************
+*******************************************************************************************************************
+
+"İTERASYONLU SERBEST DENGELEME HESAPLAMALARI"
+
+Projede .m uzantılı matlab dosyasının kodu C# a çevrilmeye çalışılmıştır. 
+Matlab dosyası ve veri çektiği "caspary_2.xlsx" adlı dosya eklenmiştir. 
+"Caspary_2.xlsx" dosyasının tüm sayfaları(3 sayfa) .csv formatına dönüştürülüp  C# a veri girişi için kullanılmıştır.
+C# dosya klasörü eklenmiştir.
+
+
+*******************************************************************************************************************
+*******************************************************************************************************************
